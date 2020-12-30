@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="15ea07ca-ae8c-4bfa-a1df-d97fabdbff8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../youdao/.idea/youdao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../youdao/test/.idea/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidu.js" beforeDir="false" afterPath="$PROJECT_DIR$/baidu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidu.py" beforeDir="false" afterPath="$PROJECT_DIR$/baidu.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidu_get.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/baidu_get1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/out00-Analysis.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/out00-EXE.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/out00-PKG.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/out00-PKG.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/out00-PYZ.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/out00-PYZ.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/warnyoudao_get.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_get/xref-youdao_get.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/base_library.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/out00-Analysis.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/out00-EXE.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/out00-PKG.pkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/out00-PKG.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/out00-PYZ.pyz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/out00-PYZ.toc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/warnyoudao_post.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/youdao_post/xref-youdao_post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/youdao_get" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/youdao_post" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ghostdriver.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/post_test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/post_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youdao_get.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youdao_post.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/youdao_post.spec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youdao/yd_get.py" beforeDir="false" afterPath="$PROJECT_DIR$/../youdao/yd_get.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../youdao/youdao_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/../youdao/youdao_post.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1mNKqQtn2AtmZzZ0rpoxvNtJdjI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="baidu" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.baidu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15ea07ca-ae8c-4bfa-a1df-d97fabdbff8a" name="Default Changelist" comment="" />
+      <created>1609328798302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609328798302</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
